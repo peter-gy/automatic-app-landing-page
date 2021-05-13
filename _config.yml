@@ -21,7 +21,7 @@ enable_smart_app_banner                   : true                                
 # Information About Yourself
 your_name                                 : PG & SS & MZ                                
 your_link                                 : https://github.com/memoriesadrift/we-find                
-your_city                                 : Vienna                                
+your_city                                 : Vienna, Universität Wien                                
 email_address                             : #
 facebook_username                         :                                           
 instagram_username                        : #
@@ -43,7 +43,7 @@ features                                  :
     fontawesome_icon_name                 : mobile
 
   - title                                 : Click'n Find 
-    description                           : We do not support a lot of features. Maybe this contradicts to our first statement, but hey, we needed to grab your attention somehow.
+    description                           : We do not support a lot of features. Maybe this contradicts with our first statement, but hey, we needed to grab your attention somehow.
     fontawesome_icon_name                 : play-circle
 
 
@@ -61,14 +61,14 @@ device_color                              : black                               
 
 body_background_color                     : "#8ecae6"
 
-link_color                                : "#ffb703"
+link_color                                : "#e63946"
 
 app_title_color                           : "#ffffff"
 app_price_color                           : "#ffffff"
 app_description_color                     : "#ffffff"
 
 feature_title_color                       : "#000000"
-feature_text_color                        : "#e6e6e6"
+feature_text_color                        : "#1d3557"
 
 feature_icons_foreground_color            : "#1d63ea"
 feature_icons_background_color            : "#e6e6e6"
